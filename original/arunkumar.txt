@@ -1,0 +1,8 @@
+1. This is a review of Arunkumar et al "VErifying Tartaglia's theory" submitted as a research article to J S&E. I recommend minor revisions.
+
+2. The title should be more informative as to the actual findings. The abstract probably should be more clear what Tartaglia's theories versus modern ones are.
+
+3. Introduction needs refernces and needs more complete explanation of the different theories.
+
+4. On figure 2 provide better comparison with theory - "Modeled fit R2 is not clear" what this is. On figure 4 can the trajectory shape be compared side by side with Tartaglia's theory. In table 1 give mean+/-s.d for tabulated data. Floats will need to be reformatted to fit a single column.
+
